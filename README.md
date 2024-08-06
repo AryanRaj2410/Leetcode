@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AryanRaj2410/Leetcode/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/AryanRaj2410/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
