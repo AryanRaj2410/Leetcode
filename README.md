@@ -33,9 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AryanRaj2410/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AryanRaj2410/Leetcode/tree/master/0058-length-of-last-word) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AryanRaj2410/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
