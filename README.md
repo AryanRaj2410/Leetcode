@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AryanRaj2410/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryanRaj2410/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AryanRaj2410/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/AryanRaj2410/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanRaj2410/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AryanRaj2410/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AryanRaj2410/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/AryanRaj2410/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
