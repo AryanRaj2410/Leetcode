@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AryanRaj2410/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AryanRaj2410/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AryanRaj2410/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AryanRaj2410/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0268-missing-number) |
 ## Array
@@ -55,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AryanRaj2410/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AryanRaj2410/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AryanRaj2410/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AryanRaj2410/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AryanRaj2410/Leetcode/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AryanRaj2410/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0268-missing-number) |
 ## Stack
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AryanRaj2410/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AryanRaj2410/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
