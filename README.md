@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanRaj2410/Leetcode/tree/master/0283-move-zeroes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AryanRaj2410/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1791-richest-customer-wealth](https://github.com/AryanRaj2410/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AryanRaj2410/Leetcode/tree/master/0067-add-binary) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/AryanRaj2410/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
