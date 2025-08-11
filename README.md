@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AryanRaj2410/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AryanRaj2410/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0268-missing-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AryanRaj2410/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AryanRaj2410/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanRaj2410/Leetcode/tree/master/0283-move-zeroes) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AryanRaj2410/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
