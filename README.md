@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanRaj2410/Leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AryanRaj2410/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/AryanRaj2410/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/AryanRaj2410/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/AryanRaj2410/Leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanRaj2410/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AryanRaj2410/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AryanRaj2410/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/AryanRaj2410/Leetcode/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AryanRaj2410/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/AryanRaj2410/Leetcode/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AryanRaj2410/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AryanRaj2410/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AryanRaj2410/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/AryanRaj2410/Leetcode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/AryanRaj2410/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
